@@ -2,7 +2,7 @@
 
 After serious consideration of various factors, I have decided to move my daily works to to [gitlab](https://gitlab.com/iamshreeram). I will continue to push my new changes to gitlab. My existing repositories will be maintained in github. 
 
-Below will be few of **Pros** in `gitlab`.
+Below will be few of **Pros** in `gitlab` :
 
 * Supporting Private Repository
 * Fully Open Source
