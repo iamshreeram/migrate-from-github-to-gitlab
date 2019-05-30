@@ -6,7 +6,7 @@ Below will be few of **Pros** in `gitlab` :
 
 * ~~Supporting Private Repository~~ [Finally, github is ready to accept Unlimited private repos]
 * Fully Open Source
-* Supports Continuous integration internally [Github is hosting ths now, but only for pro packages]
+* Supports Continuous integration internally [Github is hosting this now, but only for paid users]
 * Flexible for Function as Service
 * At last, It is not owned by `Microsoft`
 
