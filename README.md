@@ -4,10 +4,10 @@ After serious consideration of various factors, I have decided to move my daily 
 
 Below will be few of **Pros** in `gitlab` :
 
-* ~~Supporting Private Repository~~ [Finally, github is ready to accept Unlimited private repos]
+* ~~Supporting Private Repository~~ [Github accepts Unlimited private repos]
 * Fully Open Source
-* Supports Continuous integration internally [Github is hosting this now, but only for paid users]
-* Flexible for Function as Service
+* ~~Supports Continuous integration internally~~ [Github Actions with CICD] 
+* ~~Flexible for Function as Service~~ [In progress]
 * At last, It is not owned by `Microsoft`
 
 You can follow me at https://gitlab.com/iamshreeram
